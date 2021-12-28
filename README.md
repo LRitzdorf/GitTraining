@@ -1,6 +1,6 @@
 # Git Training Repo
 
-Hello!
+Hello world!
 
 This repository is a training area for Git activities.
 
