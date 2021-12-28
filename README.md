@@ -10,3 +10,7 @@ of the repo that you own, and are allowed to make changes to -- you can't work
 on it otherwise. I've set this original repo so that only I can change it, so
 you won't be able to work on it directly.
 
+Here are some changes. Oops, we accidentally started working from `main`
+instead of the proper feature branch! We should rebase these changes onto that
+feature branch.
+
