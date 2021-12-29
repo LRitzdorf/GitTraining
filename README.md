@@ -10,3 +10,7 @@ of the repo that you own, and are allowed to make changes to -- you can't work
 on it otherwise. I've set this original repo so that only I can change it, so
 you won't be able to work on it directly.
 
+This commit is tagged, but not part of a branch. When you switch to it, you'll
+get a "detached HEAD" warning -- it looks scary, but it's really not that bad.
+Just be aware of the consequences of working in this mode.
+
