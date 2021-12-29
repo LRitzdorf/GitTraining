@@ -14,5 +14,6 @@ Here's a change that we don't want to be included in our project's history at
 all. Maybe it's an API token or password that someone added by mistake, or
 maybe this is a local-only branch that you want to clean up before pushing.
 
-Here are some changes that we *do* want to include in the repo's history.
+Here are some changes that we *do* want to include in the repo's history. When
+you interactive-rebase this branch, be sure to keep this part.
 
