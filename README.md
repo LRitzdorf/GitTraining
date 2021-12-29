@@ -10,3 +10,5 @@ of the repo that you own, and are allowed to make changes to -- you can't work
 on it otherwise. I've set this original repo so that only I can change it, so
 you won't be able to work on it directly.
 
+This is a change I added to demonstrate how fast-forwarding works.
+
