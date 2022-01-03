@@ -10,3 +10,7 @@ of the repo that you own, and are allowed to make changes to -- you can't work
 on it otherwise. I've set this original repo so that only I can change it, so
 you won't be able to work on it directly.
 
+Here are some other changes we've made, which go along with adding "world"
+above. We definitely want to keep these changes, though, no matter what happens
+to "world."
+
